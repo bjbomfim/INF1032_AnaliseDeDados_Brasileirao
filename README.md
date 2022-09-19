@@ -23,7 +23,7 @@ Péssimmo - 17, 18, 19, 20 <br>
 <p>4. Os times que tomam mais gols, ficam em qual zona na tabela?</p>
 <p>5. Os 3 primeiros artilheiros do campeonato, refletem no time ficar nas zonas excelentes ou ótimas?</p>
 <p>6. Os times que fazem mais gols em um jogo, ficam em qual zona da tabela?</p>
-<p>7. Os times que toma mais gols em um jogo, ficam em qual zona da tabela?</p>
+<p>7. Os times que tomam mais gols em um jogo, ficam em qual zona da tabela?</p>
 <p>8. O time com melhor saldo de gols, fica em qual zona da tabela?</p>
 <p>9. O time com mais média de posse de bola, fica em qual zona da tabela?</p>
 
