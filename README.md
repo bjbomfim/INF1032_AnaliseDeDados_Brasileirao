@@ -14,7 +14,7 @@ Excelente - 1, 2, 3, 4 <br>
 Ótimo - 5, 6, 7, 8 <br>
 Regular - 9, 10, 11, 12 <br>
 Ruim - 13, 14, 15, 16 <br>
-Péssimmo - 17, 18, 19, 20 <br>
+Péssimo - 17, 18, 19, 20 <br>
 <H5>Com isso conseguimos fazer algumas perguntas a mais:</H5>
 
 <p>1. Os time que tomam menos gols, ficam em qual zona na tabela?</p>
